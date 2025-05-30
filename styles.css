@@ -1,8 +1,8 @@
 .custom-button {
     position: absolute;
-    left: 500;
-    top: 1800;
-    padding: none;
+    left: 2;
+    top: 1;
+    padding: 20;
     font-size: 16;
     background-color: transparent;
     color: white;
