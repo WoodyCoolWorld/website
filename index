@@ -26,8 +26,16 @@
             background-position: center;
         }
     </style>
-
-
+<a href="gallery.html">
+    <img src="shack.png" alt="Custom Button" class="custom-button">
+</a>
+.custom-button {
+    width: 100px; /* Adjust width */
+    height: auto; /* Maintain aspect ratio */
+    position: absolute; /* Allows precise positioning */
+    top: 50px; /* Adjust as needed */
+    left: 100px; /* Adjust as needed */
+}
     <div class="background"></div>
  <audio autoplay>
         <source src="homesong.wav" type="audio/wav">
