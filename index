@@ -32,6 +32,12 @@
     <div class="background"></div>
  <audio controls autoplay>
         <source src="homesong.wav" type="audio/wav">
+<script>
+    window.addEventListener("load", () => {
+        const audio = document.querySelector("audio");
+        audio.play().catch(error => console.log("Autoplay prevented:", error));
+    });
+</script>
        
     </audio>
 
