@@ -25,8 +25,7 @@
             background-position: center;
         }
     </style>
-</head>
-<body>
+
 
     <div class="background"></div>
  <audio autoplay>
