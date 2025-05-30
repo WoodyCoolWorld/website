@@ -54,8 +54,8 @@
     </audio>
 <body> 
 
-<a> href="gallery.html" target="_blank" class="custom-button">
-    <img src="shack.png" alt="Clickable Image">
+<a href="gallery.html" target="_blank">
+    <img src="shack.png" alt="Clickable Image" class="custom-button">
 </a>
 
 </body>
