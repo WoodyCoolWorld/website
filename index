@@ -10,7 +10,7 @@
             margin: 0;
             padding: 0;
             box-sizing: border-box;
-            
+            overflow: hidden;
         }
         html, body {
             width: 100%;
@@ -23,22 +23,19 @@
             background-size: cover;
             background-position: center;
         }
-.custom-button {
-    position: fixed;
-    left: 500;
-    top: 600;
-    padding: 20;
-    font-size: 16;
-    background-color: transparent;
-    color: white;
-    border: none;
-    cursor: pointer;
-    transition: transform 0.3 ease-in-out;
-}
+        .custom-button {
+            position: fixed;
+            left: 500;
+            top: 600;
+            background-color: transparent;
+            border: none;
+            cursor: pointer;
+            transition: transform 0.3 ease-in-out;
+        }
 
-.custom-button:hover {
-    transform: (1.2);
-}
+        .custom-button:hover {
+            transform: (1.2);
+        }
     </style>
 </head>
 <body>
