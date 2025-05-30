@@ -28,7 +28,6 @@
 </head>
 <body>
 
-    <h2>Enjoy the Music</h2>
     <div class="background"></div>
  <audio autoplay>
         <source src="homesong.wav" type="audio/wav">
