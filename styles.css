@@ -2,7 +2,7 @@
     position: absolute;
     left: 50px; /* Adjust as needed */
     top: 100px; /* Adjust as needed */
-    padding: 10px 20px;
+    padding: none;
     font-size: 16px;
     background-color: transparent;
     color: white;
