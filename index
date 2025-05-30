@@ -28,7 +28,7 @@
         }
     </style>
 <a href="gallery.html">
-    <img src="shack.png" alt="Custom Button" class="custom-button">
+    <img src="shack.png" alt="Custom Button" class="custom-button" style="width=100px; height=50px">
 </a>
 
     <div class="background"></div>
