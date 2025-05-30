@@ -27,8 +27,8 @@
             background-position: center;
         }
     </style>
-<a href="gallery.html">
-    <img src="shack.png" alt="Custom Button" class="custom-button">
+<a href="gallery.html" class="custom-button">
+    <img src="shack.png" alt="Custom Button">
 </a>
 
     <div class="background"></div>
