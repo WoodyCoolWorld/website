@@ -1,0 +1,16 @@
+.custom-button {
+    position: absolute;
+    left: 50px; /* Adjust as needed */
+    top: 100px; /* Adjust as needed */
+    padding: 10px 20px;
+    font-size: 16px;
+    background-color: #008CBA;
+    color: white;
+    border: none;
+    cursor: pointer;
+    transition: transform 0.3s ease-in-out;
+}
+
+.custom-button:hover {
+    transform: scale(1.2);
+}
