@@ -6,6 +6,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Home</title>
 <link rel="stylesheet" href="styles.css">
+
+</head>
     <style>
         * {
             margin: 0;
@@ -27,9 +29,8 @@
             background-position: center;
         }
     </style>
-<a href="gallery.html" class="custom-button">
-    <img src="shack.png" class="custom-button">
-</a>
+
+
 
     <div class="background"></div>
  <audio autoplay>
@@ -51,6 +52,14 @@
 </script>
        
     </audio>
+<body> 
+
+<a href="gallery.html" target="_blank" class="custom-button">
+    <img src="shack.png" alt="Clickable Image">
+</a>
 
 </body>
+
+
+
 </html>
