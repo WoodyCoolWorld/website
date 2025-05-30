@@ -30,7 +30,7 @@
 
     <h2>Enjoy the Music</h2>
     <div class="background"></div>
- <audio controls>
+ <audio controls autoplay>
         <source src="homesong.wav" type="audio/wav">
        
     </audio>
