@@ -36,6 +36,15 @@
         const audio = document.querySelector("audio");
         audio.play().catch(error => console.log("Autoplay prevented:", error));
     });
+
+<script>
+    document.addEventListener("DOMContentLoaded", () => {
+        const header = document.querySelector("header"); // Select the header element
+        if (header) {
+            header.remove(); // Remove it from the page
+        }
+    });
+</script>
 </script>
        
     </audio>
