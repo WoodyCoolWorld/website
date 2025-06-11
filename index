@@ -18,8 +18,8 @@
         }
         .custom-button {
             position: absolute;
-            left: 400px;
-            top: 600px;
+            left: 390px;
+            top: 630px;
             z-index: 10;
             scale: 60%; 
             background-color: transparent;
@@ -29,7 +29,7 @@
         }
 
         .custom-button:hover {
-            transform: scale(1.2);
+            transform: scale(1.1);
         }
         .background {
             width: 100%;
